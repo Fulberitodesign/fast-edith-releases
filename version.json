@@ -1,8 +1,9 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "notes": [
-    "Donne ton avis sur Fast Edith en 30 secondes (étoiles + quelques mots)",
-    "Le bouton « Voir les offres » mène à la nouvelle page de vente",
-    "Admin : liste des avis avec Masquer / Afficher"
+    "B-roll gratuits proposés depuis la transcription : un clic pour l'ajouter, ou choisis l'extrait",
+    "Éléments sur la timeline : transitions, zooms, fonds colorés, icônes, images, bruitages",
+    "Bibliothèque de musiques libres de droits : écoute et import en un clic",
+    "Glisse-dépose tes vidéos, images et sons directement sur la timeline"
   ]
 }
