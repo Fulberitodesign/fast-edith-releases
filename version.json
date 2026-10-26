@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "notes": [
-    "Mises à jour automatiques : une fenêtre te prévient, un clic et c'est installé",
-    "Limite d'ordinateurs par compte (2, Studio : 3 postes) et liste « Mes ordinateurs »",
-    "Offres appliquées : filigrane, 1080p / 4K, styles, calque Premiere, Shorts viraux, import par lien"
+    "Donne ton avis sur Fast Edith en 30 secondes (étoiles + quelques mots)",
+    "Le bouton « Voir les offres » mène à la nouvelle page de vente",
+    "Admin : liste des avis avec Masquer / Afficher"
   ]
 }
