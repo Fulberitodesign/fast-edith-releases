@@ -1,9 +1,10 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "notes": [
-    "✨ Habillage auto : l'IA propose musique, sound effects et B-roll d'après la transcription, tu choisis",
-    "Volumes automatiques : musique loin sous la voix, sound effects encore en dessous",
-    "Volume et opacité réglables sur chaque élément, son des B-roll vidéo, forme d'onde des musiques",
-    "Panneaux déplaçables, timeline en haut ou en bas, modèles de projet et d'espace de travail"
+    "⚡ Longs podcasts fluides : la lecture, les corrections et la coupe des silences ne figent plus l'outil",
+    "Export : l'image reste calée sur le son pour les vidéos de téléphone coupées (les sous-titres ne disparaissent plus vers 1 min 40)",
+    "Mots barrés seulement s'ils sont vraiment coupés, et le SRT ne perd plus de mots",
+    "Shorts créés depuis l'analyse d'un podcast : seulement le texte du passage, bien plus légers",
+    "Windows : l'export des longues vidéos coupées aux silences fonctionne"
   ]
 }
