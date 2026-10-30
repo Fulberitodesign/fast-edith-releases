@@ -1,6 +1,11 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "notes": [
-    "🎬 Shorts viraux : nouveau réglage « Ignorer les premières minutes » (3 min par défaut) : aucun short ne commence dans l'intro, quoi que propose l'IA"
+    "🐞 Signaler un bug aussi dans le logiciel installé (bouton en haut), erreurs remontées automatiquement",
+    "⬚ Outil de sélection sur la timeline : un élément, un lot au lasso (V), tout (Ctrl+A) ou tous les éléments d'un même type, puis coller les propriétés en une fois",
+    "💬 Sous-titres sélectionnables sur la timeline : corriger le texte, couleur, gras, supprimer",
+    "🎵 Musiques et sound effects Pixabay, et la bibliothèque B-roll (Pexels, Pixabay, Mixkit…), directement dans Fast Edith : « Télécharger » pose le fichier sur la timeline",
+    "✨ Combinaison de 2 ou 3 animations de texte, au hasard ou à tour de rôle",
+    "🗂 Espace de travail en haut (espaces prêts à l'emploi), ⛶ aperçu en plein écran (F), version affichée à côté du logo, guide d'utilisation à jour"
   ]
 }
