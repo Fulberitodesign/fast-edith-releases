@@ -1,11 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "notes": [
-    "📚 Bibliothèque B-roll intégrée : Pexels, Pixabay, Mixkit, Storyblocks, Unsplash, Freepik s'ouvrent dans Fast Edith, chaque clip téléchargé se pose tout seul sur la timeline",
-    "✂️ Chaque morceau coupé devient indépendant : cadrage, échelle et position propres à chaque morceau",
-    "📋 Copier / coller les propriétés d'un élément vers un ou plusieurs autres, et ⧉ dupliquer musique, sound effects, B-roll, fonds…",
-    "📱 Aperçu sur toute la hauteur à gauche ou à droite pour le vertical, au milieu pour le 16:9 ; Shorts viraux en vue short",
-    "🔥 Shorts viraux : l'intro du podcast est ignorée, priorité aux anecdotes, échecs, histoires, chiffres et conseils",
-    "Recadrage plus large (position −200 à 200 %, échelle jusqu'à 600 %), choix des ponctuations à retirer, la lecture repart du début une fois finie"
+    "🎬 Shorts viraux : nouveau réglage « Ignorer les premières minutes » (3 min par défaut) : aucun short ne commence dans l'intro, quoi que propose l'IA"
   ]
 }
