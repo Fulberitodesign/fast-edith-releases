@@ -1,8 +1,10 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "notes": [
-    "▶ Lecture fluide après « Couper les silences » : plus d'arrêt ni d'image noire à chaque coupe",
-    "✂ Timeline plus lisible : les repères de coupe ne cachent plus la forme d'onde (à afficher au besoin dans « Réglages des cuts »)",
-    "🎨 Styles rangés du plus simple au plus élaboré, en commençant par Simple"
+    "🎬 Chaque morceau de vidéo se règle à part : position, taille, échelle, rotation, opacité, ombre et fond flou",
+    "🔊 Piste Voix : volume, muet, fondus et traitement de la voix pour un seul morceau ou toute la piste",
+    "🖼 Exporter : choisis une couverture (image de la vidéo ou image importée), en première image et en miniature",
+    "🎨 Colorimétrie : Lumière et Couleur avec des curseurs colorés, roues dans la page Couleur",
+    "✨ Habillage auto repensé : aperçu avant d'appliquer, toutes les lignes cochables, intensité au choix"
   ]
 }
