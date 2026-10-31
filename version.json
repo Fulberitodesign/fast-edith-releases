@@ -1,12 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "notes": [
-    "🖥 Nouvelle interface : bibliothèque à gauche (Médias, Éléments, Audio, Texte, Transitions, Colorimétrie, IA) avec une page par catégorie, et Propriétés qui s'ouvrent sur ce que tu cliques",
-    "🎞 Timeline à pistes comme Premiere (V1 à V4) : glisse un fond, un B-roll ou un lot de sous-titres vers le haut ou le bas pour le passer devant ou derrière",
-    "🖍 Couleur ou gras sur un seul mot, sans toucher au style ni aux autres sous-titres",
-    "📄 Importer une transcription : SRT, VTT, JSON (Whisper, Premiere…), ASS, TTML, CSV ou texte, avec ton style",
-    "🎚 Traitement de la voix : réduction du bruit, silences propres, compression, égaliseur, voix plus forte, « Améliorer en 1 clic »",
-    "🎨 Colorimétrie (looks, lumière, couleur, roues, LUT) et séquences : plusieurs formats exportés en une fois",
-    "✚ Formes, bandeaux, barre de progression, Habillage auto, musiques et sons Mixkit directement dans l'outil"
+    "▶ Lecture fluide après « Couper les silences » : plus d'arrêt ni d'image noire à chaque coupe",
+    "✂ Timeline plus lisible : les repères de coupe ne cachent plus la forme d'onde (à afficher au besoin dans « Réglages des cuts »)",
+    "🎨 Styles rangés du plus simple au plus élaboré, en commençant par Simple"
   ]
 }
