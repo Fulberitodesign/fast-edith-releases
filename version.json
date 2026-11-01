@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "notes": [
-    "Outil Sélection comme dans Premiere Pro (V, outil par défaut) : clic = choisir, glisser un élément = le déplacer dans le temps et de piste, glisser ses bords = le rogner, glisser sur une zone vide = lasso, Maj ou Ctrl + clic = ajouter",
-    "Outil Lame (C) : coupe au clic ; Échap ou V revient à la Sélection"
+    "Timeline : sur le bord d'un élément, une icône d'allongement et de raccourcissement (crochet et flèches) comme dans Premiere Pro et CapCut",
+    "Les bords se prennent directement au survol, même sans choisir l'élément avant"
   ]
 }
