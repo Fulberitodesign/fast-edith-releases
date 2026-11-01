@@ -1,6 +1,7 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "notes": [
-    "Correction : les propriétés et l'animation des icônes, images, formes, bandeaux, fonds, zooms, transitions et sons s'ouvrent de nouveau"
+    "Outils : sur la timeline, le curseur est exactement l'icône du bouton choisi (Sélection, Lame), même au-dessus d'un élément",
+    "L'étiquette de l'outil actif ne déborde plus sur la barre d'outils"
   ]
 }
