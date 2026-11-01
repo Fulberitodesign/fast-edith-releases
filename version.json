@@ -1,8 +1,7 @@
 {
-  "version": "1.8.9",
+  "version": "1.8.10",
   "notes": [
-    "Timeline : molette de la souris pour parcourir les pistes de haut en bas (Maj + molette : dans le temps, Ctrl + molette : zoom)",
-    "Barre de défilement verticale à droite, avant le vumètre ; la règle du temps reste en haut",
-    "En glissant un élément près du haut ou du bas, la timeline défile toute seule"
+    "La touche retour arrière (Backspace) supprime l'élément choisi, comme Suppr ; dans un champ de texte elle efface toujours une lettre",
+    "Un élément ajouté depuis la bibliothèque est aussitôt visé par Suppr / retour arrière (plus de mot du texte supprimé par erreur)"
   ]
 }
