@@ -1,12 +1,7 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "notes": [
-    "Sous-titres indépendants : un style, une position et une taille propres à un sous-titre ou à un lot choisi, sans toucher aux autres",
-    "Pistes comme dans Premiere : seulement les pistes utiles, une nouvelle piste en glissant un élément vers le haut, boutons + Piste et + A",
-    "Musique et sound effects sur leurs propres pistes audio",
-    "Outil Lame (C) : coupe un plan, un élément ou un sous-titre au clic ; l'icône de l'outil actif s'affiche",
-    "Raccourcis : liste complétée et bouton Enregistrer",
-    "Animations : choisir une animation désactive la combinaison",
-    "3 styles en double retirés"
+    "Sous-titre choisi dans le texte (colonne de gauche) : sa position, sa taille et son style se règlent seuls, sans bouger les autres",
+    "Bandeau « Les changements touchent : Ce sous-titre / Toute la vidéo » en haut des panneaux Styles, Texte, Animation, Effets"
   ]
 }
