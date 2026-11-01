@@ -1,6 +1,7 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "notes": [
-    "Outils : plus aucun texte sur la barre d'outils, le bouton allumé et l'icône du curseur suffisent"
+    "Outil Sélection comme dans Premiere Pro (V, outil par défaut) : clic = choisir, glisser un élément = le déplacer dans le temps et de piste, glisser ses bords = le rogner, glisser sur une zone vide = lasso, Maj ou Ctrl + clic = ajouter",
+    "Outil Lame (C) : coupe au clic ; Échap ou V revient à la Sélection"
   ]
 }
