@@ -1,7 +1,9 @@
 {
-  "version": "1.8.10",
+  "version": "1.9.0",
   "notes": [
-    "La touche retour arrière (Backspace) supprime l'élément choisi, comme Suppr ; dans un champ de texte elle efface toujours une lettre",
-    "Un élément ajouté depuis la bibliothèque est aussitôt visé par Suppr / retour arrière (plus de mot du texte supprimé par erreur)"
+    "Sécurité : le logiciel installé refuse de s'ouvrir si ses fichiers ont été modifiés (verrou d'intégrité)",
+    "Sans serveur des comptes, le logiciel ne passe plus jamais en illimité : il demande un compte ou reste en offre gratuite",
+    "Offre gratuite : les minutes ne peuvent plus être contournées en coupant internet",
+    "Le code de l'interface du logiciel installé est minifié"
   ]
 }
