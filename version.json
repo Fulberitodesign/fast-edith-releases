@@ -1,10 +1,7 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "notes": [
-    "🎬 Chaque morceau de vidéo se règle à part : position, taille, échelle, rotation, opacité, ombre et fond flou",
-    "🔊 Piste Voix : volume, muet, fondus et traitement de la voix pour un seul morceau ou toute la piste",
-    "🖼 Exporter : choisis une couverture (image de la vidéo ou image importée), en première image et en miniature",
-    "🎨 Colorimétrie : Lumière et Couleur avec des curseurs colorés, roues dans la page Couleur",
-    "✨ Habillage auto repensé : aperçu avant d'appliquer, toutes les lignes cochables, intensité au choix"
+    "Offre gratuite : 20 min de sous-titrage par mois",
+    "Paiement en ligne par Mobile Money (MTN, Moov, Celtiis) ou carte bancaire, en FCFA, depuis la page des offres"
   ]
 }
