@@ -1,8 +1,8 @@
 {
-  "version": "1.8.8",
+  "version": "1.8.9",
   "notes": [
-    "Pistes : un glisser vers le haut crée une seule nouvelle piste (avant, un bug consommait toutes les pistes d'un coup)",
-    "Les pistes sont renumérotées sans trou : les projets bloqués se réparent tout seuls",
-    "Jusqu'à 20 pistes vidéo et 20 pistes audio"
+    "Timeline : molette de la souris pour parcourir les pistes de haut en bas (Maj + molette : dans le temps, Ctrl + molette : zoom)",
+    "Barre de défilement verticale à droite, avant le vumètre ; la règle du temps reste en haut",
+    "En glissant un élément près du haut ou du bas, la timeline défile toute seule"
   ]
 }
