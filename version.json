@@ -1,9 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "notes": [
-    "Sécurité : le logiciel installé refuse de s'ouvrir si ses fichiers ont été modifiés (verrou d'intégrité)",
-    "Sans serveur des comptes, le logiciel ne passe plus jamais en illimité : il demande un compte ou reste en offre gratuite",
-    "Offre gratuite : les minutes ne peuvent plus être contournées en coupant internet",
-    "Le code de l'interface du logiciel installé est minifié"
+    "Offre gratuite : les 20 minutes du mois s'utilisent librement, même sans connexion internet ; elles sont comptées et envoyées au serveur au retour de la connexion, et reviennent le 1er de chaque mois",
+    "Hors connexion, une offre payante reste reconnue (jusqu'à 30 jours sans connexion) : plus de filigrane par erreur"
   ]
 }
