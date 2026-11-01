@@ -1,7 +1,12 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.0",
   "notes": [
-    "Offre gratuite : 20 min de sous-titrage par mois",
-    "Paiement en ligne par Mobile Money (MTN, Moov, Celtiis) ou carte bancaire, en FCFA, depuis la page des offres"
+    "Nouvelle interface : bouton Raccourcis à côté de l'espace de travail",
+    "22 nouveaux styles de sous-titres (mot géant + petits mots, serif, néon écho, surligné…) et 11 animations combinables",
+    "IA incluse dans les offres payantes : relecture, Shorts viraux, idées de B-roll sans clé personnelle",
+    "Offre Studio en équipe : 3 postes et styles partagés",
+    "Bandeau Renouveler et rappel e-mail 3 jours avant la fin de l'offre",
+    "Version web : copie de projet à enregistrer et rouvrir",
+    "Sécurité renforcée"
   ]
 }
