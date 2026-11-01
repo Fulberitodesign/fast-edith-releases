@@ -1,7 +1,6 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "notes": [
-    "Outils : sur la timeline, le curseur est exactement l'icône du bouton choisi (Sélection, Lame), même au-dessus d'un élément",
-    "L'étiquette de l'outil actif ne déborde plus sur la barre d'outils"
+    "Outils : plus aucun texte sur la barre d'outils, le bouton allumé et l'icône du curseur suffisent"
   ]
 }
