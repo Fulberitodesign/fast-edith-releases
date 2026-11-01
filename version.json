@@ -1,7 +1,6 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "notes": [
-    "Sous-titre choisi dans le texte (colonne de gauche) : sa position, sa taille et son style se règlent seuls, sans bouger les autres",
-    "Bandeau « Les changements touchent : Ce sous-titre / Toute la vidéo » en haut des panneaux Styles, Texte, Animation, Effets"
+    "Correction : les propriétés et l'animation des icônes, images, formes, bandeaux, fonds, zooms, transitions et sons s'ouvrent de nouveau"
   ]
 }
