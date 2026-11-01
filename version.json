@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "notes": [
-    "Offre gratuite : les 20 minutes du mois s'utilisent librement, même sans connexion internet ; elles sont comptées et envoyées au serveur au retour de la connexion, et reviennent le 1er de chaque mois",
-    "Hors connexion, une offre payante reste reconnue (jusqu'à 30 jours sans connexion) : plus de filigrane par erreur"
+    "Compteur de minutes mensuel à la date d'inscription : inscrit le 14, les minutes reviennent le 14 de chaque mois (date affichée dans Mon abonnement)",
+    "Polices de l'ordinateur : dans les listes de polices, « Ajouter les polices de mon ordinateur » ajoute toutes les polices installées (logiciel ; Chrome / Edge pour la version web)"
   ]
 }
