@@ -1,7 +1,6 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "notes": [
-    "Transcription fiable : Whisper GPU est toujours choisi quand il est disponible ; un texte qui semble faux (symboles, autre alphabet, trop peu de mots) n'est plus gardé et la transcription est refaite avec Whisper GPU",
-    "Bandeau « Relancer la transcription » quand le texte d'un projet semble incorrect"
+    "Bouton « Transcrire la vidéo / Refaire la transcription » toujours visible en haut du panneau Transcription, avec le moteur utilisé"
   ]
 }
