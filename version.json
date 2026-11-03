@@ -1,6 +1,8 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "notes": [
-    "Demandes IA : même cycle que les minutes, à la date d'inscription ; la date de retour s'affiche dans Mon abonnement et dans le message de quota"
+    "Propriétés : X, Y, L et H se changent à la main et s'appliquent pendant la saisie, petites flèches ▲ ▼ (Maj : par 10), flèches du clavier, et glisser sur la lettre comme dans Premiere",
+    "Mémoire : l'historique d'annulation est limité en taille et Whisper intégré est libéré après la transcription",
+    "Annuler / Rétablir met à jour la carte de l'élément choisi"
   ]
 }
