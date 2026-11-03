@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9",
+  "version": "1.9.10",
   "notes": [
-    "Transcription plus fiable : si le texte semble faux, Fast Edith recommence tout seul avec un modèle plus précis (au lieu d'afficher une erreur)"
+    "La transcription ne bloque plus jamais : le texte est toujours gardé, avec un avertissement « vérifie le texte » s'il semble douteux"
   ]
 }
