@@ -1,6 +1,6 @@
 {
-  "version": "1.9.11",
+  "version": "1.9.3",
   "notes": [
-    "Comme la 1.5 : à l'import, la transcription s'affiche en progression puis la vidéo s'ouvre avec ses sous-titres déjà posés ; Shorts viraux : une vidéo courte est analysée en entier"
+    "Demandes IA : même cycle que les minutes, à la date d'inscription ; la date de retour s'affiche dans Mon abonnement et dans le message de quota"
   ]
 }
