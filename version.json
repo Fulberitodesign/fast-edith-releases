@@ -1,8 +1,9 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "notes": [
-    "Propriétés : X, Y, L et H se changent à la main et s'appliquent pendant la saisie, petites flèches ▲ ▼ (Maj : par 10), flèches du clavier, et glisser sur la lettre comme dans Premiere",
-    "Mémoire : l'historique d'annulation est limité en taille et Whisper intégré est libéré après la transcription",
-    "Annuler / Rétablir met à jour la carte de l'élément choisi"
+    "Version web : la transcription fonctionne de nouveau (Hugging Face refusait le téléchargement du modèle depuis l'adresse *.workers.dev)",
+    "Transcription Whisper GPU environ 2,7 fois plus rapide (transcription par lots), même texte",
+    "Aperçu bien plus léger : aucune image redessinée en pause, 30 images par seconde en lecture (au lieu de la fréquence de l'écran), résolution réduite automatiquement sur les petits ordinateurs",
+    "Import direct des vidéos dans le logiciel (lien instantané ou copie par le système)"
   ]
 }
