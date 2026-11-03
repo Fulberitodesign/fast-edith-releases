@@ -1,9 +1,11 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "notes": [
-    "Version web : la transcription fonctionne de nouveau (Hugging Face refusait le téléchargement du modèle depuis l'adresse *.workers.dev)",
-    "Transcription Whisper GPU environ 2,7 fois plus rapide (transcription par lots), même texte",
-    "Aperçu bien plus léger : aucune image redessinée en pause, 30 images par seconde en lecture (au lieu de la fréquence de l'écran), résolution réduite automatiquement sur les petits ordinateurs",
-    "Import direct des vidéos dans le logiciel (lien instantané ou copie par le système)"
+    "Import instantané : l'éditeur s'ouvre en ~2 secondes et la transcription se lance toute seule en arrière-plan (barre de progression au-dessus du lecteur), on peut travailler pendant ce temps",
+    "Bouton « Lancer la transcription » dans le panneau Transcription",
+    "Aperçus légers (proxys) comme Premiere et CapCut : copie 540p créée en arrière-plan pour les vidéos lourdes (AV1, HEVC, 4K…), l'export reste en pleine qualité",
+    "Résolution de lecture comme Premiere : Auto, Intégrale, 1/2, 1/4",
+    "Import par lien sans Python (outil officiel yt-dlp installé tout seul)",
+    "Shorts viraux sur les podcasts longs (jusqu'à ~4 h)"
   ]
 }
