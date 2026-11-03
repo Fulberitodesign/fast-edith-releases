@@ -1,6 +1,6 @@
 {
-  "version": "1.9.10",
+  "version": "1.9.11",
   "notes": [
-    "La transcription ne bloque plus jamais : le texte est toujours gardé, avec un avertissement « vérifie le texte » s'il semble douteux"
+    "Comme la 1.5 : à l'import, la transcription s'affiche en progression puis la vidéo s'ouvre avec ses sous-titres déjà posés ; Shorts viraux : une vidéo courte est analysée en entier"
   ]
 }
