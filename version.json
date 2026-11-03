@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
+  "version": "1.9.9",
   "notes": [
-    "Bouton « Transcrire la vidéo / Refaire la transcription » toujours visible en haut du panneau Transcription, avec le moteur utilisé"
+    "Transcription plus fiable : si le texte semble faux, Fast Edith recommence tout seul avec un modèle plus précis (au lieu d'afficher une erreur)"
   ]
 }
