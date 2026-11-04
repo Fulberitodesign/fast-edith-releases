@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.12",
   "notes": [
-    "Demandes IA : même cycle que les minutes, à la date d'inscription ; la date de retour s'affiche dans Mon abonnement et dans le message de quota"
+    "Retour des fonctions de la 1.9.11 + Whisper GPU toujours détecté au démarrage (avant, le logiciel passait parfois au moteur du navigateur et ne transcrivait pas)"
   ]
 }
