@@ -1,6 +1,10 @@
 {
-  "version": "1.9.19",
+  "version": "1.9.20",
   "notes": [
-    "Styles enregistrés : tout le rendu est gardé (réglages du sous-titre choisi compris), « Mes styles personnalisés » en haut de l'onglet Styles, et le même rendu sur une autre vidéo sans changer son format ni son cadrage"
+    "Pistes : une piste vidée reste affichée (× pour la retirer) ; glisser un élément au-dessus de la piste du haut crée une nouvelle piste",
+    "Un élément ajouté là où il y a déjà un élément ou des sous-titres se pose sur sa propre piste, sous les sous-titres",
+    "Export : les zooms restent droits, comme dans l'aperçu (même sur une vidéo 16:9 recadrée en 9:16)",
+    "B-roll 4K : aperçu léger automatique, le B-roll s'affiche bien pendant le montage (l'export garde la pleine qualité)",
+    "Nouveaux zooms : rapide, fondu (part du noir) et focus (part du flou), en avant ou en arrière"
   ]
 }
