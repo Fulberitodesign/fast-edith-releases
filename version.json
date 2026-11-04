@@ -1,6 +1,6 @@
 {
-  "version": "1.9.16",
+  "version": "1.9.17",
   "notes": [
-    "Transcription : correction de ligne qui ne s'ouvrait plus réparée ; mot ajouté ou corrigé avec le style de ses voisins ; sous-titres rognables, déplaçables et minutage Début/Fin ; coller les propriétés complètes sur des sous-titres ; nouvelle piste en glissant vers le haut ; plantage du serveur à la bascule de l'aperçu léger corrigé"
+    "Correction de ligne qui restait bloquée après un double-clic sur un mot masqué ; les mots masqués ne bloquent plus les bords ni le déplacement des sous-titres"
   ]
 }
