@@ -1,6 +1,6 @@
 {
-  "version": "1.9.12",
+  "version": "1.9.13",
   "notes": [
-    "Retour des fonctions de la 1.9.11 + Whisper GPU toujours détecté au démarrage (avant, le logiciel passait parfois au moteur du navigateur et ne transcrivait pas)"
+    "Accents corrects dans le nom des vidéos importées par lien ; suppression d'un projet fiable (plus d'erreur quand un aperçu ou une transcription tournait encore)"
   ]
 }
