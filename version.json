@@ -1,6 +1,6 @@
 {
-  "version": "1.9.14",
+  "version": "1.9.15",
   "notes": [
-    "Lecture fluide des vidéos importées par lien (téléchargées en H.264 au lieu de l'AV1) ; un short reprend l'aperçu léger de son podcast au lieu d'en refaire un ; « Aperçu léger 56 % » affiché en clair"
+    "Plus de faux avertissement « transcription douteuse » sur les shorts créés depuis un podcast"
   ]
 }
