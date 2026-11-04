@@ -1,6 +1,6 @@
 {
-  "version": "1.9.18",
+  "version": "1.9.19",
   "notes": [
-    "Rogner ou déplacer un sous-titre ne vide plus le minutage de ses mots (et un temps invalide n'est jamais enregistré)"
+    "Styles enregistrés : tout le rendu est gardé (réglages du sous-titre choisi compris), « Mes styles personnalisés » en haut de l'onglet Styles, et le même rendu sur une autre vidéo sans changer son format ni son cadrage"
   ]
 }
