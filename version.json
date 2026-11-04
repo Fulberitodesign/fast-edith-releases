@@ -1,6 +1,6 @@
 {
-  "version": "1.9.17",
+  "version": "1.9.18",
   "notes": [
-    "Correction de ligne qui restait bloquée après un double-clic sur un mot masqué ; les mots masqués ne bloquent plus les bords ni le déplacement des sous-titres"
+    "Rogner ou déplacer un sous-titre ne vide plus le minutage de ses mots (et un temps invalide n'est jamais enregistré)"
   ]
 }
