@@ -1,6 +1,6 @@
 {
-  "version": "1.9.23",
+  "version": "1.9.24",
   "notes": [
-    "Modes de fusion (Écran, Ajout, Éclaircir, Produit, Assombrir, Superposition, Lumière douce) pour les vidéos, images, fonds, formes et dégradés : light leaks et transitions, identiques à l'aperçu et à l'export"
+    "5 transitions light leak (chaud, doré, rose, bleu, Flare) dessinées par le logiciel et fusionnées en mode Écran avec la vidéo"
   ]
 }
