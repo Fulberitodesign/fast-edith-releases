@@ -1,6 +1,6 @@
 {
-  "version": "1.9.21",
+  "version": "1.9.22",
   "notes": [
-    "IA (Shorts viraux, relecture, B-roll) : nouveaux modèles Gemini (l'ancien gemini-2.5-flash a été retiré par Google)"
+    "Glow : curseurs Intensité et Lissage ; nouveau bandeau « Dégradé bas » réglable (position, intensité, hauteur, douceur, couleur) ; boutons du lecteur qui gardent leur forme sur petit écran"
   ]
 }
