@@ -1,6 +1,6 @@
 {
-  "version": "1.9.22",
+  "version": "1.9.23",
   "notes": [
-    "Glow : curseurs Intensité et Lissage ; nouveau bandeau « Dégradé bas » réglable (position, intensité, hauteur, douceur, couleur) ; boutons du lecteur qui gardent leur forme sur petit écran"
+    "Modes de fusion (Écran, Ajout, Éclaircir, Produit, Assombrir, Superposition, Lumière douce) pour les vidéos, images, fonds, formes et dégradés : light leaks et transitions, identiques à l'aperçu et à l'export"
   ]
 }
