@@ -1,6 +1,6 @@
 {
-  "version": "1.9.24",
+  "version": "1.9.25",
   "notes": [
-    "5 transitions light leak (chaud, doré, rose, bleu, Flare) dessinées par le logiciel et fusionnées en mode Écran avec la vidéo"
+    "Import par lien plus fiable : l'outil de telechargement s'installe meme quand GitHub repond mal (copie de secours, essais repetes, reprise)"
   ]
 }
