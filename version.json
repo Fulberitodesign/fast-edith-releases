@@ -1,6 +1,6 @@
 {
-  "version": "1.9.25",
+  "version": "1.9.26",
   "notes": [
-    "Import par lien plus fiable : l'outil de telechargement s'installe meme quand GitHub repond mal (copie de secours, essais repetes, reprise)"
+    "Offre relue sans redemarrer : une offre donnee ou payee enleve les cadenas toute seule"
   ]
 }
