@@ -1,6 +1,6 @@
 {
-  "version": "1.9.26",
+  "version": "1.9.27",
   "notes": [
-    "Offre relue sans redemarrer : une offre donnee ou payee enleve les cadenas toute seule"
+    "Transcription : message clair pour une video sans son ; cartes graphiques sans fp16 : transcription sur le processeur au lieu d'une erreur"
   ]
 }
